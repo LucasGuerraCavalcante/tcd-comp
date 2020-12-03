@@ -1,0 +1,19 @@
+
+/8 cometario errado 8?
+
+?/ comenrario errado */
+
+codigo codigo codigo /* comentario */ 
+
+\\ comentario errado
+
+codigo codigo codigo // comentario  
+
+codigo /* comentario 
+comentario
+comentario
+comentario
+comentario
+*/
+
+/\ cometario errado
